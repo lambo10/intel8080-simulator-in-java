@@ -1,0 +1,2 @@
+MOV A,122 ;
+hello: DB "i am a good developer";
